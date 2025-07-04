@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Mike!</h1>
 
-conda-forge is a community led collection of recipes, build infrastructure and distributions for the conda package manager.
+<p align="center">
+  A fullstack developer focused on building AI-powered tools, scalable web platforms, and cleanly architected software.
+</p>
 
-Important git repositories
-- [staged-recipes](https://github.com/conda-forge/staged-recipes) - place to submit new recipes
-- [miniforge](https://github.com/conda-forge/miniforge) - An installer with conda-forge as the default channel
-- [conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - website and tracker for general conda-forge problems and enhancements
-- [feedstocks](https://github.com/conda-forge/feedstocks) - A monorepo containing all feedstocks as submodules
-- [conda-smithy](https://github.com/conda-forge/conda-smithy) - The tool for managing conda-forge feedstocks.
-- [admin-requests](https://github.com/conda-forge/admin-requests) - Github repo to ask [conda-forge/core](https://github.com/orgs/conda-forge/teams/core) to mark a package as broken
-- [conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock) - Git repo that track hotfixing of package metadata
-- [conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock) - Global pinnings in conda-forge and migration information
-- [docker-images](https://github.com/conda-forge/docker-images) - Docker images used to build conda-forge packages (`linux-*` and `noarch` only)
-- [conda-forge-ci-setup-feedstock](https://github.com/conda-forge/conda-forge-ci-setup-feedstock) - Build-time settings for each CI run
-- [marketing](https://github.com/conda-forge/marketing) - Logos and other materials for conda-forge
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **AI-powered software** that combines smart caching, user personalization, and intelligent automation
+- 🧠 Learning and experimenting with **Machine Learning** to build predictive and adaptive systems
+- 💡 I enjoy solving deep technical challenges with performance-optimized and testable code
+- 💬 Ask me about **AI integration**, **fullstack architecture**, or **LLM prompt design**
+- 🌍 Passionate about building tools that solve real-world problems and empower people, especially across Africa
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+**Backend & Infra**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+
+**Dev Tools & Testing**  
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+
+
+**Deployment & Cloud**  
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mike-dev&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mike-dev&theme=radical" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mike-kanu-dev/)
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://yourportfolio.com) -->
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/codewithmike01)
+
+---
+
+> ⚡ _"Code it clean. Build with purpose. Deliver with impact."_
