@@ -69,7 +69,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mike-kanu-dev/)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://yourportfolio.com) -->
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/codewithmike01)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/koachcode)
 
 ---
 
