@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mike Kanu</h1>
 
 <p align="center">
-Full-Stack Software Engineer • AI Engineer • Founder
+Full-Stack Software Engineer • AI Engineer • AI Automation Engineer 
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Building AI-powered products, scalable platforms, and developer-focused systems.
 
 I’m a **Full-Stack Software Engineer with 5+ years of experience** building scalable software, AI-powered systems, and production web platforms.
 
-I work at the intersection of **AI, fullstack engineering, and product development**, helping teams and startups turn complex ideas into reliable software.
+I work at the intersection of **AI, full-stack engineering, and product development**, helping teams and startups turn complex ideas into reliable software.
 
 Currently I:
 
